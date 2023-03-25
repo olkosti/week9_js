@@ -15,7 +15,7 @@ const minutesInHour = 60;
 console.log(`Русалка прокрастинировала ${(messageMinutes + likeFotoMinutes + VkMinutes + YouTubeMinutes) / minutesInHour} часов`)
 
 //Задача №4
-console.log(2**5);
+console.log(2 ** 5);
 
 //Задача №5
 console.log('Нужно бежать со всех ног, чтобы только оставаться на месте, а чтобы куда-то попасть, надо бежать как минимум вдвое быстрее!');
